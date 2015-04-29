@@ -1,0 +1,8 @@
+*{margin:0;padding:0;letter-spacing:1px;color:#EEE;list-style:none;font-family:'Rockwell','rockwellregular','Arial';}
+html{background-color:#444;}
+
+#ubik{position:absolute;left:0px;top:0px;}
+
+footer div{position:fixed;right:30px;bottom:30px;width:50px;height:50px;border-radius:50%;background-color:#FFF;box-shadow: 5px 5px 5px #444;}
+footer div span{display:none;font-size:37px;color:#000;text-align:center;margin-top:-9px;margin-left:5px;}
+footer div:hover span{display:block;}
